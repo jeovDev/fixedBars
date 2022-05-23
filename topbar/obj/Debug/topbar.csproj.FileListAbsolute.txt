@@ -1,0 +1,9 @@
+C:\Users\smsi\source\repos\topbar\topbar\bin\Debug\topbar.exe
+C:\Users\smsi\source\repos\topbar\topbar\bin\Debug\topbar.pdb
+C:\Users\smsi\source\repos\topbar\topbar\obj\Debug\topbar.csprojAssemblyReference.cache
+C:\Users\smsi\source\repos\topbar\topbar\obj\Debug\topbar.Form1.resources
+C:\Users\smsi\source\repos\topbar\topbar\obj\Debug\topbar.Properties.Resources.resources
+C:\Users\smsi\source\repos\topbar\topbar\obj\Debug\topbar.csproj.GenerateResource.cache
+C:\Users\smsi\source\repos\topbar\topbar\obj\Debug\topbar.csproj.CoreCompileInputs.cache
+C:\Users\smsi\source\repos\topbar\topbar\obj\Debug\topbar.exe
+C:\Users\smsi\source\repos\topbar\topbar\obj\Debug\topbar.pdb
